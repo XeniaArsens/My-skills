@@ -1,1 +1,0 @@
-pm.response.to.have.jsonSchema(schema)
